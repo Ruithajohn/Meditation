@@ -1,0 +1,19 @@
+# Wambui and Ruitha Meditation Teaching Website
+
+This website is dedicated to teaching meditation techniques and providing resources for mindfulness.
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/your-username/wambui-and-ruitha-meditation-teaching-website.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+
+## Running the Website
+
+1. Open a web browser and navigate to `http://localhost:3000`
+
+## Contributing
+
+If you'd like to contribute to the project, please fork the repository and submit a pull request.
+
+## License
